@@ -1,0 +1,8 @@
+{
+  "name": "Bejaia Matieres Premieres",
+  "description": "Vente et distribution de matieres premieres industrielles et commerciales a Bejaia, Algerie (Huile brute, Huile acide, Melasse de sucre). Solutions B2B haut de gamme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
